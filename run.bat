@@ -1,7 +1,7 @@
 @echo off
 
 REM Activate the virtual environment (replace venv with your virtual environment path)
-call .\venv\Scripts\activate
+.\venv\Scripts\Activate.ps1
 
 :loop
 REM Run the Python script (replace main.py with your script name)
