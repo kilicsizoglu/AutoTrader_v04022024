@@ -1,0 +1,684 @@
+[
+    {
+        "label": "Client",
+        "importPath": "binance.client",
+        "description": "binance.client",
+        "isExtraImport": true,
+        "detail": "binance.client",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "binance.client",
+        "description": "binance.client",
+        "isExtraImport": true,
+        "detail": "binance.client",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "binance.client",
+        "description": "binance.client",
+        "isExtraImport": true,
+        "detail": "binance.client",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "binance.client",
+        "description": "binance.client",
+        "isExtraImport": true,
+        "detail": "binance.client",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "binance",
+        "description": "binance",
+        "isExtraImport": true,
+        "detail": "binance",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "binance",
+        "description": "binance",
+        "isExtraImport": true,
+        "detail": "binance",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "binance",
+        "description": "binance",
+        "isExtraImport": true,
+        "detail": "binance",
+        "documentation": {}
+    },
+    {
+        "label": "list_trade",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "list_trade",
+        "description": "list_trade",
+        "detail": "list_trade",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "mongoengine",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "disconnect",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "DateTimeField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "FloatField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "DateTimeField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "FloatField",
+        "importPath": "mongoengine",
+        "description": "mongoengine",
+        "isExtraImport": true,
+        "detail": "mongoengine",
+        "documentation": {}
+    },
+    {
+        "label": "binance_price",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "binance_price",
+        "description": "binance_price",
+        "detail": "binance_price",
+        "documentation": {}
+    },
+    {
+        "label": "binance_volume",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "binance_volume",
+        "description": "binance_volume",
+        "detail": "binance_volume",
+        "documentation": {}
+    },
+    {
+        "label": "mongo_price_table",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mongo_price_table",
+        "description": "mongo_price_table",
+        "detail": "mongo_price_table",
+        "documentation": {}
+    },
+    {
+        "label": "prophet_predict",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "prophet_predict",
+        "description": "prophet_predict",
+        "detail": "prophet_predict",
+        "documentation": {}
+    },
+    {
+        "label": "ta_api_request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_credentials_binance",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "get_api_credentials_binance",
+        "description": "get_api_credentials_binance",
+        "detail": "get_api_credentials_binance",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_credentials_ta_api",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "get_api_credentials_ta_api",
+        "description": "get_api_credentials_ta_api",
+        "detail": "get_api_credentials_ta_api",
+        "documentation": {}
+    },
+    {
+        "label": "get_position_quantity",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "get_position_quantity",
+        "description": "get_position_quantity",
+        "detail": "get_position_quantity",
+        "documentation": {}
+    },
+    {
+        "label": "get_usdt_quantity",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "get_usdt_quantity",
+        "description": "get_usdt_quantity",
+        "detail": "get_usdt_quantity",
+        "documentation": {}
+    },
+    {
+        "label": "sell_operation",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sell_operation",
+        "description": "sell_operation",
+        "detail": "sell_operation",
+        "documentation": {}
+    },
+    {
+        "label": "buy_operation",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "buy_operation",
+        "description": "buy_operation",
+        "detail": "buy_operation",
+        "documentation": {}
+    },
+    {
+        "label": "mongo_position_info_table",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mongo_position_info_table",
+        "description": "mongo_position_info_table",
+        "detail": "mongo_position_info_table",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "Prophet",
+        "importPath": "prophet",
+        "description": "prophet",
+        "isExtraImport": true,
+        "detail": "prophet",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "get_binance_price",
+        "kind": 2,
+        "importPath": "binance_price",
+        "description": "binance_price",
+        "peekOfCode": "def get_binance_price(api_key: str, api_secret: str, symbol: str):\n    client = Client(api_key, api_secret)\n    ticker = client.get_symbol_ticker(symbol=symbol)\n    return float(ticker['price'])",
+        "detail": "binance_price",
+        "documentation": {}
+    },
+    {
+        "label": "get_binance_volume",
+        "kind": 2,
+        "importPath": "binance_volume",
+        "description": "binance_volume",
+        "peekOfCode": "def get_binance_volume(api_key: str, api_secret: str, symbol: str):\n    client = Client(api_key, api_secret)\n    ticker_24h = client.get_ticker(symbol=symbol)\n    return float(ticker_24h['quoteVolume'])",
+        "detail": "binance_volume",
+        "documentation": {}
+    },
+    {
+        "label": "Buy",
+        "kind": 2,
+        "importPath": "buy_operation",
+        "description": "buy_operation",
+        "peekOfCode": "def Buy(apikey, apisecretkey, coinname, quantity, taaapikey):\n    try:\n        client = Client(apikey, apisecretkey)\n        client.futures_change_leverage(symbol=coinname, leverage=25)\n        res = client.futures_create_order(symbol=coinname,\n                                                              side='BUY',\n                                                              type=\"MARKET\",\n                                                              quantity=quantity)\n        if res['orderId'] is not None:\n            return True",
+        "detail": "buy_operation",
+        "documentation": {}
+    },
+    {
+        "label": "LossProtect",
+        "kind": 2,
+        "importPath": "buy_operation",
+        "description": "buy_operation",
+        "peekOfCode": "def LossProtect(apikey, apisecretkey, coinname, quantity, price, stopPrice):\n    try:\n        client = Client(apikey, apisecretkey)\n        res = client.futures_create_order(symbol=coinname,\n                                          side='SELL',\n                                          type=Client.FUTURE_ORDER_TYPE_STOP,\n                                          quantity=quantity,\n                                          timeinforce='GTC',\n                                          stopPrice=stopPrice,\n                                          price=price)",
+        "detail": "buy_operation",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_credentials_binance",
+        "kind": 2,
+        "importPath": "get_api_credentials_binance",
+        "description": "get_api_credentials_binance",
+        "peekOfCode": "def get_api_credentials_binance(file_path):\n    with open(file_path, 'r') as f:\n        data = json.load(f)\n    return data['apiKey'], data['secret']",
+        "detail": "get_api_credentials_binance",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_credentials_ta_api",
+        "kind": 2,
+        "importPath": "get_api_credentials_ta_api",
+        "description": "get_api_credentials_ta_api",
+        "peekOfCode": "def get_api_credentials_ta_api(file_path):\n    with open(file_path, 'r') as f:\n        data = json.load(f)\n    return data['apikey']",
+        "detail": "get_api_credentials_ta_api",
+        "documentation": {}
+    },
+    {
+        "label": "USDTQuantity",
+        "kind": 2,
+        "importPath": "get_position_quantity",
+        "description": "get_position_quantity",
+        "peekOfCode": "def USDTQuantity(apikey, apisecret, coin_name):\n    try:\n        client = Client(apikey, apisecret)\n        tickers = client.futures_get_open_orders()\n        order_quantity = 0\n        for ticker in tickers:\n            if ticker[\"symbol\"] == coin_name:\n                if ticker[\"type\"] != \"STOP\":\n                    order_quantity += (abs((float(ticker[\"origQty\"])) * float(ticker[\"price\"])))\n        tickers = list_trade.ListTrade(apikey, apisecret)",
+        "detail": "get_position_quantity",
+        "documentation": {}
+    },
+    {
+        "label": "USDTQuantity",
+        "kind": 2,
+        "importPath": "get_usdt_quantity",
+        "description": "get_usdt_quantity",
+        "peekOfCode": "def USDTQuantity(apikey, apisecret):\n    try:\n        client = Client(apikey, apisecret)\n        tickers = client.futures_get_open_orders()\n        order_quantity = 0\n        for ticker in tickers:\n                if ticker[\"type\"] != \"STOP\":\n                    order_quantity += (abs((float(ticker[\"origQty\"])) * float(ticker[\"price\"])) / 25)\n        tickers = list_trade.ListTrade(apikey, apisecret)\n        for ticker in tickers:",
+        "detail": "get_usdt_quantity",
+        "documentation": {}
+    },
+    {
+        "label": "ListTrade",
+        "kind": 2,
+        "importPath": "list_trade",
+        "description": "list_trade",
+        "peekOfCode": "def ListTrade(apikey, apisecretkey):\n    try:\n        client = Client(apikey, apisecretkey)\n        res = client.futures_position_information()\n        if res is not None:\n            return res\n        else:\n            return None\n    except Exception as e:\n        print(e)",
+        "detail": "list_trade",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    position_status = False\n    position_operation = \"\"\n    position_price = 0\n    results = []\n    prices = []\n    score = 0.0000000001  # Initialize score\n    accuracy_threshold = 0.005  # Define a threshold for accuracy, e.g., 0.5%\n    # create an empty figure and axes\n    plt.figure(figsize=(12, 6))",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "CryptoPositionInfoClass",
+        "kind": 6,
+        "importPath": "mongo_position_info_table",
+        "description": "mongo_position_info_table",
+        "peekOfCode": "class CryptoPositionInfoClass(Document):\n    symbol = StringField(required=True, max_length=50)\n    type = StringField(required=True, max_length=50)\n    price = FloatField()\n    price_sb = FloatField()",
+        "detail": "mongo_position_info_table",
+        "documentation": {}
+    },
+    {
+        "label": "CryptoPriceClass",
+        "kind": 6,
+        "importPath": "mongo_price_table",
+        "description": "mongo_price_table",
+        "peekOfCode": "class CryptoPriceClass(Document):\n    symbol = StringField(required=True, max_length=50)\n    time = DateTimeField(default=datetime.utcnow)\n    price = FloatField()\n    volume = FloatField()\n    predict_price = FloatField()\n    macd = FloatField()\n    signal = FloatField()\n    rsi = FloatField()",
+        "detail": "mongo_price_table",
+        "documentation": {}
+    },
+    {
+        "label": "train_and_predict_price",
+        "kind": 2,
+        "importPath": "prophet_predict",
+        "description": "prophet_predict",
+        "peekOfCode": "def train_and_predict_price(coin_name, price, volume, macd, signal, rsi):\n    data_query = list(mongo_price_table.CryptoPriceClass.objects)\n    if len(data_query) == 0:\n        return None\n    data = []\n    for item in data_query:\n        data_dict = {\n            'symbol': item.symbol,\n            'time': item.time,\n            'price': item.price,",
+        "detail": "prophet_predict",
+        "documentation": {}
+    },
+    {
+        "label": "Sell",
+        "kind": 2,
+        "importPath": "sell_operation",
+        "description": "sell_operation",
+        "peekOfCode": "def Sell(apikey, apisecretkey, coinname, quantity, taaapikey):\n    try:\n        client = Client(apikey, apisecretkey)\n        client.futures_change_leverage(symbol=coinname, leverage=25)\n        res = client.futures_create_order(symbol=coinname,\n                                                              side='SELL',\n                                                              type=\"MARKET\",\n                                                              quantity=quantity)\n        if res['orderId'] is not None:\n            return res",
+        "detail": "sell_operation",
+        "documentation": {}
+    },
+    {
+        "label": "LossProtect",
+        "kind": 2,
+        "importPath": "sell_operation",
+        "description": "sell_operation",
+        "peekOfCode": "def LossProtect(apikey, apisecretkey, coinname, quantity, price, stopPrice):\n    try:\n        client = Client(apikey, apisecretkey)\n        res = client.futures_create_order(symbol=coinname,\n                                          side='BUY',\n                                          type=Client.FUTURE_ORDER_TYPE_STOP,\n                                          quantity=quantity,\n                                          timeinforce='GTC',\n                                          stopPrice=stopPrice,\n                                          price=price)",
+        "detail": "sell_operation",
+        "documentation": {}
+    },
+    {
+        "label": "get_oscillator",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/rsi?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_choppiness_index(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/chop?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_choppiness_index",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_choppiness_index(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/chop?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_coppock_curve(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/coppockcurve?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_coppock_curve",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_coppock_curve(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/coppockcurve?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_detrended_price_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/dpo?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}&period=50\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_detrended_price_oscillator",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_detrended_price_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/dpo?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}&period=50\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_directional_movement_index_dx(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/dx?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_directional_movement_index_dx",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_directional_movement_index_dx(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/dx?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_ease_of_movement(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/eom?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_ease_of_movement",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_ease_of_movement(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/eom?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_forecast_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/fosc?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}&period=50\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_forecast_oscillator",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_forecast_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/fosc?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}&period=50\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_money_flow_index(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/mfi?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_money_flow_index",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_money_flow_index(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/mfi?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_percentage_price_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/ppo?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_percentage_price_oscillator",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_percentage_price_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/ppo?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_rate_of_change(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/roc?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_rate_of_change",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_rate_of_change(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/roc?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_relative_strength_index(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/rsi?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_relative_strength_index",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_relative_strength_index(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/rsi?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_stochastic_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/stoch?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_stochastic_oscillator",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_stochastic_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/stoch?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_stochastic_fast(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/stochf?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_stochastic_fast",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_stochastic_fast(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/stochf?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_stoch_rsi(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/stochrsi?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_stoch_rsi",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_stoch_rsi(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/stochrsi?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_trix(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/trix?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_trix",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_trix(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/trix?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_price_direction(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/pd?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_price_direction",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_price_direction(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/pd?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_ease_of_movement(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/eom?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_ease_of_movement",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_ease_of_movement(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/eom?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_directional_movement_index(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/dmi?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_directional_movement_index",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_directional_movement_index(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/dmi?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_volume_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/vosc?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_volume_oscillator",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_volume_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/vosc?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_moving_average(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/ma?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_moving_average",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_moving_average(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/ma?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data\n# Removing duplicates for get_directional_movement and get_ultimate_oscillator functions\ndef get_directional_movement(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/dm?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}&period=50\"",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_directional_movement",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_directional_movement(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/dm?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}&period=50\"\n    response = requests.get(url)\n    data = response.json()\n    return data\ndef get_macd(api_secret: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/macd?secret={api_secret}&exchange=binance&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_macd",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_macd(api_secret: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/macd?secret={api_secret}&exchange=binance&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    if response.status_code == 200:\n        data = response.json()\n        return data\n    else:\n        # İstek başarısız olduysa hata durumunu işle\n        print(f\"Hata kodu: {response.status_code}\")",
+        "detail": "ta_api_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_ultimate_oscillator",
+        "kind": 2,
+        "importPath": "ta_api_request",
+        "description": "ta_api_request",
+        "peekOfCode": "def get_ultimate_oscillator(api_key: str, symbol: str, interval: str):\n    time.sleep(3)\n    url = f\"https://api.taapi.io/ultosc?secret={api_key}&exchange=binancefutures&symbol={symbol}&interval={interval}\"\n    response = requests.get(url)\n    data = response.json()\n    return data",
+        "detail": "ta_api_request",
+        "documentation": {}
+    }
+]

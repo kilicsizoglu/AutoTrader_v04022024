@@ -1,0 +1,1 @@
+{"apiKey": "TTVzkJdWeOxb0INCmupDvX0wp9O94ueK06wyqXow1xn2W1Qu1IRPqezUPcMkLH70", "secret": "uxxLsCT4ij6I1LV9kkiepthMKsrhVY4A9X0mxn9qRbXGjlnsU0u8tdqXq8AyiNS2"}
