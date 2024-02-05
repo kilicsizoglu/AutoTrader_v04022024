@@ -67,7 +67,7 @@ def main():
             print("{:.15f}".format(s))
             if result is not None and status is not None:
                 print("price : " + str(price) + " predict : " + str(result))
-            if (pre_result - result) >= 0.000002 and pre_result != 0:
+            if (pre_result - result) >= 0.0000001 and pre_result != 0:
                 if position_status is False:
                     print("SHORT OPERATION")
                     price = float(ta_api_request.get_price(ta_apikey, "DENTUSDT", "1m")["value"])
@@ -76,7 +76,7 @@ def main():
                     position_status = True
                 if float(usdt) > 6:
                     sell_operation.Sell(binance_apikey, binance_secret, "DENTUSDT", round((25 * 6) / price, 0))
-            if (((result - pre_result) >= 0.000001 and pre_result != 0)):
+            if (((result - pre_result) >= 0 and pre_result != 0)):
                 if position_status is True and position_operation == "SHORT":
                     data = mongo_position_info_table.CryptoPositionInfoClass()
                     data.symbol = "DENTUSDT"
@@ -98,7 +98,7 @@ def main():
                     print("SHORT OPERATION END")
                 if float(dent) > 0:
                     buy_operation.Buy(binance_apikey, binance_secret, "DENTUSDT", round((dent) / price, 0))
-            if (result - pre_result) >= 0.000002 and pre_result != 0:
+            if (result - pre_result) >= 0.0000001 and pre_result != 0:
                 if position_status is False:
                     print("LONG OPERATION")
                     price = float(ta_api_request.get_price(ta_apikey, "DENTUSDT", "1m")["value"])
@@ -117,7 +117,7 @@ def main():
                     price = float(ta_api_request.get_price(ta_apikey, "DENTUSDT", "1m")["value"])
                     data.price_sb = price
                     data.earning = (price - position_price)
-                    if data.earning > 0.00000001:
+                    if data.earning > 0:
                         data.earning_status = "WIN"
                     elif data.earning < 0.00000001:
                         data.earning_status = "LOSS"
