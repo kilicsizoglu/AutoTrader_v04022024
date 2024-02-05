@@ -28,11 +28,11 @@ def main():
     score = 0.1  # Initialize score
     accuracy_threshold = 0.005  # Define a threshold for accuracy, e.g., 0.5%
 
-    """
+    #"""
     # create an empty figure and axes
     plt.figure(figsize=(12, 6))
     ax = plt.gca()
-    """
+    #"""
     pre_result = 0
 
     while True:
@@ -157,7 +157,6 @@ def main():
         time.sleep(10)
 
         second_price = float(ta_api_request.get_price(ta_apikey, "DENTUSDT", "1m")["value"])
-
         db_save = mongo_price_table.CryptoPriceClass()
         db_save.symbol = "DENTUSDT"
         db_save.volume = volume
@@ -166,14 +165,13 @@ def main():
         db_save.signal = float(signal)
         db_save.rsi = rsi
         db_save.predict_price = second_price
-
         db_save.save()
 
         # store results and values for plots
         results.append(result)
         prices.append(price)
 
-        """
+        #"""
         ax.clear()
         ax.plot(results, label='Predicted Price')
         ax.plot(prices, label='Actual Price')
@@ -182,7 +180,7 @@ def main():
         ax.set_ylabel("Price")
         ax.legend()
         plt.pause(0.01)  # add a short pause to update the figure
-        """
+        #"""
 
 if __name__ == '__main__':
     main()
