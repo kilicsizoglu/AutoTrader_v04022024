@@ -47,11 +47,11 @@ def train_and_predict_price_arima(coin_name, price, volume, macd, signal, rsi):
 
     # Gelecekteki veri noktaları için tahmin
     future_exog = pd.DataFrame({
-        "volume": [volume] * 5,
-        "price": [price] * 5,
-        "macd": [macd] * 5,
-        "signal": [signal] * 5,
-        "rsi": [rsi] * 5,
+        "volume": [volume],
+        "price": [price],
+        "macd": [macd],
+        "signal": [signal],
+        "rsi": [rsi],
     })
     predictions = model.predict(n_periods=5, exogenous=future_exog)
 
