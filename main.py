@@ -48,9 +48,6 @@ def main():
         macd = float(macd_data["valueMACD"])
         signal = float(macd_data["valueMACDSignal"])
         rsi = float(ta_api_request.get_relative_strength_index(ta_apikey, "DENTUSDT", "1m")["value"])
-        srsi_data = ta_api_request.get_stoch_rsi(ta_apikey, "DENTUSDT", "1m")
-        k = float(srsi_data["valueFastK"])
-        d = float(srsi_data["valueFastD"])
 
         disconnect("default")
         connect(host='localhost', port=27017)
